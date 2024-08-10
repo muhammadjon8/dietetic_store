@@ -1,8 +1,8 @@
 <script setup></script>
 
 <template>
-  <div>
-    <LazyNavbar />
+  <div class="py-9">
+    
   </div>
 </template>
 
