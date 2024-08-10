@@ -3,6 +3,7 @@
 <template>
   <div>
     <LazyNavbar />
+    <LazyMain />
   </div>
 </template>
 

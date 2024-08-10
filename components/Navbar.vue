@@ -11,19 +11,19 @@
         <nuxt-link to="/" class="text-primary text-[20px] font-bold"
           >Home</nuxt-link
         >
-        <nuxt-link to="/" class="text-primary text-[20px] font-bold"
+        <nuxt-link to="/about" class="text-primary text-[20px] font-bold"
           >About</nuxt-link
         >
-        <nuxt-link to="/" class="text-primary text-[20px] font-bold"
+        <nuxt-link to="/pages" class="text-primary text-[20px] font-bold"
           >Pages</nuxt-link
         >
-        <nuxt-link to="/" class="text-primary text-[20px] font-bold"
+        <nuxt-link to="/shop" class="text-primary text-[20px] font-bold"
           >Shop</nuxt-link
         >
-        <nuxt-link to="/" class="text-primary text-[20px] font-bold"
+        <nuxt-link to="/porjects" class="text-primary text-[20px] font-bold"
           >Projects</nuxt-link
         >
-        <nuxt-link to="/" class="text-primary text-[20px] font-bold"
+        <nuxt-link to="/news" class="text-primary text-[20px] font-bold"
           >News</nuxt-link
         >
       </div>

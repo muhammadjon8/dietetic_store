@@ -11,6 +11,7 @@ module.exports = {
   theme: {
     extend: {
       container: {
+        center: true,
         padding: {
           DEFAULT: "1rem",
           sm: "1.5rem",
@@ -22,6 +23,9 @@ module.exports = {
       colors: {
         primary: "#274C5B",
         yashil: "#7EB693",
+      },
+      backgroundImage: {
+        "hero": "url('/backgroundMain.png')",
       },
     },
   },
